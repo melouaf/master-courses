@@ -3,7 +3,7 @@
 **Instructors**:
  Julien Mairal, Michael Arbel  and  Jean-Philippe Vert
 
-École Normale Supérieure Paris Saclay	
+École Normale Supérieure Paris Saclay	  
 MRes Mathematics, Vision, Machine Learning (MVA)
 
 
