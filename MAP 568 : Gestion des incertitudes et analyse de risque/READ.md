@@ -4,7 +4,7 @@
 Mr. Josselin Garnier
 Master Jacques Hadamard, École Polytechnique
 
-**Course Description:**  
+# Course Description
 
 The objective of this course is to present mathematical methods for modeling, characterizing, and analyzing uncertainties in numerical simulations.
 
