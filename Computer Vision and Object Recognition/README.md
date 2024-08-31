@@ -3,7 +3,10 @@
 **Instructors**:
 Jean Ponce, Ivan Laptev, Cordelia Schmid and Josef Sivic
 
-Master MVA, École Normale Supérieure Ulm
+École Normale Supérieure Ulm  
+MRes Mathematics, Vision, Machine Learning (MVA)
+
+
 
 # Course description
 
