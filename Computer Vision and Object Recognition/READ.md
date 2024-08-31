@@ -3,7 +3,7 @@
 **Instructors**:
 Jean Ponce, Ivan Laptev, Cordelia Schmid and Josef Sivic
 
-École Normale Supérieure Ulm
+École Normale Supérieure Ulm, Master MVA
 
 # Course description:
 
