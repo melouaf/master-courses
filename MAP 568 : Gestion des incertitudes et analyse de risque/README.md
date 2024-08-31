@@ -3,7 +3,8 @@
 **Instructor:**  
 Mr. Josselin Garnier  
 
-Master Jacques Hadamard, École Polytechnique
+École Polytechnique  
+Master Jacques Hadamard
 
 # Course Description
 
