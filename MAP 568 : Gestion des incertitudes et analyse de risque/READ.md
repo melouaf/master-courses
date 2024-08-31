@@ -1,7 +1,8 @@
 # MAP 568: Gestion des Incertitudes et Analyse de Risque
 
 **Instructor:**  
-Mr. Josselin Garnier
+Mr. Josselin Garnier  
+
 Master Jacques Hadamard, École Polytechnique
 
 # Course Description
